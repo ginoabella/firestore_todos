@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719770424525",
+    "firebase_url": "https://todos-aca87.firebaseio.com",
+    "project_id": "todos-aca87",
+    "storage_bucket": "todos-aca87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719770424525:android:3e2e40b54f865a87364584",
+        "android_client_info": {
+          "package_name": "gino.abella.firebase_todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719770424525-0v0cn5r9ntnfbi0e0gdvei0kbrdmm99b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gino.abella.firebase_todos",
+            "certificate_hash": "de24cc0aa7c30e4db9be8258e7188d5bcfd765ce"
+          }
+        },
+        {
+          "client_id": "719770424525-2g3h9pkbnar4pcnmp14qcdos9aus5ad7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAWJR-575yVj7nAKqtES_es9v3c1yi2-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719770424525-2g3h9pkbnar4pcnmp14qcdos9aus5ad7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
